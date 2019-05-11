@@ -4,9 +4,9 @@ It includes :-
 ##############################Images uploading using OpenCV########################
 ##############################Drawing shapes on Images, Videos#####################
 ##############################Drawing on images using static as well as Dragging with mouse######
-##############################Object Detection using OpenCV########################
+##############################Object Detection########################
 ##############################Object Detection using Neural Networks###############
-##############################Object Tracking using OpenCV#########################
+##############################Object Tracking#########################
 ##############################Counting number of fingers using webcams#############
 ##############################Image Processing using 
                                   Gaussian filter, 

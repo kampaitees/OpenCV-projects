@@ -19,4 +19,4 @@ It includes :-
 ##############################Object Segmentation using OpenCV##################
 ##############################Image Classification using CNNs on dataset like CIFAR, MNIST etc...#######
  
-#################################################And Much More#####################################
+###################################And Much More#################################

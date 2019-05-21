@@ -1,4 +1,4 @@
-# OpenCV-projects
+## OpenCV-projects
 All the projects and code which I had written in python using OpenCV will be present.
 It includes :-
 ##############################Images uploading using OpenCV########################

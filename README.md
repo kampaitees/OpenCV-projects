@@ -16,7 +16,7 @@ It includes :-
                                   morphological operators, 
                                   sobel operators, 
                                   edge detection etc...###########################
-##############################Object Segmentation using OpenCV##################
+##############################Object Segmentation##################
 ##############################Image Classification using CNNs on dataset like CIFAR, MNIST etc...#######
  
 ###################################And Much More#################################

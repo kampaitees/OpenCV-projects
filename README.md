@@ -1,7 +1,7 @@
 ## OpenCV-projects
 All the projects and code which I had written in python using OpenCV will be present.
 It includes :-
-  Images uploading using OpenCV
+    Images uploading using OpenCV
   
   Drawing shapes on Images, Videos
   
@@ -26,4 +26,4 @@ It includes :-
                                   Object Segmentation
             Image Classification using CNNs on dataset like CIFAR, MNIST etc...
  
-            And Much More
+    And Much More
